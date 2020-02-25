@@ -36,3 +36,5 @@ DON'T POST IT DIRECTLY! Use gist.github.com and post it there and link it here.
 ## Detailed Description
 Provide a detailed description of the change or addition you are proposing.
 
+## Any Added Mods
+If you added any mods to the pack you must list them below as it is likely the issue is caused by those.
