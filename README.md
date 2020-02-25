@@ -6,4 +6,4 @@ Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and
   
 Need Help?
 ======
-Go to the issues section and make sure to enter version number. Also enter all added mods and make the issue clear. Don't just say, "My game is broken."
+Go to the issues section and make sure to enter version number. Also enter all mods that you may of added to the pack and make the issue clear. Don't just say, "My game is broken."
