@@ -6,7 +6,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 ### Mods Changed
 * Added FastWorkbench  
 
-*[full modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
   
   
 ### Config/Misc:  
