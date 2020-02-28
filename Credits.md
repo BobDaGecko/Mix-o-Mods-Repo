@@ -8,7 +8,7 @@ Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and
 #### Logo Author: ProSymbols US, Noun Project, [Adventure](https://thenounproject.com/icon/2254137/)
 
 #### Author's Note
-Thanks to all the amazing modders out there who have created the many amazing mods that make up this mod pack. All these mods are amazing works of art and skill. I hope to become one of you one day as I learn the world of code myself. I also want to thank the Technic and FTB communities for the pioneering of minecraft modpacks. Also of course I must acknowledge Notch (Markus Persson) and Mojang for creating this historical game that has created so many personal memories. Finally, I thank you the modpack player for your usage of this project and I hope you enjoy my first modpack, Mix o' Mods.
+Thanks to all the amazing modders out there who have created the many amazing mods that make up this modpack. All these mods are amazing works of art and skill. I hope to become one of you one day as I learn the world of code myself. I also want to thank the Technic and FTB communities for the pioneering of minecraft modpacks. Also of course I must acknowledge Notch (Markus Persson) and Mojang for creating this historical game that has created so many personal memories. Finally, I thank you the modpack player for your usage of this project and I hope you enjoy my first modpack, Mix o' Mods.
 
 #### Mod Authors -  
 
