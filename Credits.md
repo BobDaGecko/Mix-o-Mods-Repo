@@ -12,7 +12,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 
 #### Mod Authors -  
 
-| Mod                           | Main Author/Creator/Owner(s)      |
+| Mod                           | Main Author/Creator/Owner(s)      | 
 |-------------------------------|-----------------------------------| 
 | /dank/null                    | TheRealp455w0rd                   | 
 | Actually Additions            | Ellepeck                          | 
@@ -26,6 +26,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Applied Energistics 2         | AlgorithmX2                       | 
 | Armory Expansion              | AshuraNoYami                      | 
 | Aroma1997's Dimensional World | Aroma1997                         | 
+| Astral Sorcery                | HellFirePvP                       | 
 | Avaritia                      | SpitefulFox and TTFTCUTS          | 
 | Baubles                       | Azanor                            | 
 | Better Advancements           | Azanorway2muchnoise               | 
