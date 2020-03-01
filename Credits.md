@@ -104,6 +104,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Integrated Dynamics           | kroeser                           | 
 | Integrated Terminals          | kroeser                           | 
 | Integrated Tunnels            | kroeser                           | 
+| Inventory Generators          | kjmaster1                         | 
 | Inventory Tweaks              | Kobata                            | 
 | Iron Backpacks                | gr8pefish                         | 
 | Iron Chests                   | progwml6                          | 
@@ -131,6 +132,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Mekanism Generators           | aidancbrady                       | 
 | Mekanism Tools                | aidancbrady                       | 
 | MineMenu                      | Girafi                            | 
+| Mod Tweaker                   | jaredlll08                        | 
 | Modpack Configuration Checker | matt1235r                         | 
 | Modular Powersuits            | MachineMuse                       | 
 | More Avaritia                 | TheUnderTaker11_                  | 
@@ -153,10 +155,12 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Open Blocks                   | OpenMods Team                     | 
 | OpenComputers                 | Sangar_                           | 
 | Optifine (Not Included)       | sp614x                            | 
+| Overloaded                    | CJ-MC-Mods                        | 
 | Pam's Get All the Seeds!      | MatrexsVigil                      | 
 | Pam's HarvestCraft            | MatrexsVigil                      | 
 | Portal Gun                    | TheLMiffy1111                     | 
 | Power Adapters                | DarkhaxDev                        | 
+| Practical Logistics 2         | SonarSonic                        | 
 | Project Intelligence          | brandon3055                       | 
 | Project Red - Base            | Mr_TJP and ChickenBones           | 
 | Project Red - Compact         | Mr_TJP and ChickenBones           | 
