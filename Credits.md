@@ -93,7 +93,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Hat Stand                     | iChun                             | 
 | Hats                          | iChun                             | 
 | Headcrumbs                    | ganymedes01                       | 
-| ICBM Classic                  | DarkGuardsman                     | 
+| ICBM Classic (Not Included)   | DarkGuardsman                     | 
 | Immersive Cables              | SanAndreasP                       | 
 | Immersive Engineering         | BluSunrize and Mr_Hazard          | 
 | Immersive Petroleum           | Flaxbeard                         | 
@@ -155,7 +155,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Open Blocks                   | OpenMods Team                     | 
 | OpenComputers                 | Sangar_                           | 
 | Optifine (Not Included)       | sp614x                            | 
-| Overloaded                    | CJ-MC-Mods                        | 
 | Pam's Get All the Seeds!      | MatrexsVigil                      | 
 | Pam's HarvestCraft            | MatrexsVigil                      | 
 | Portal Gun                    | TheLMiffy1111                     | 
