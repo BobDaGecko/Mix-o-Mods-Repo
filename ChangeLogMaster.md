@@ -4,7 +4,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
   
   
 ### Mods Changed
-Development Version (See Modlist) 
+Development Version - Added Initial Mods (See Modlist) 
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
   
@@ -12,7 +12,6 @@ Development Version (See Modlist)
 ### Config/Misc:  
 + Made Akashic Tome start with all documentaion books
 + Added recipes for Forestry Hives
-+ Added recipies for compressed blocks based of Extra Util 2
 + Configured oredict for Chisel
 + Rice dough decided to get all-up in paper's recipes. Nipped that in the bud.  
 + People really really don't like getting chiseled ice from void resource miners. Fixed this game-breaking bug.
