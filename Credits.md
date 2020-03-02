@@ -57,7 +57,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Construct's Armory            | TheIllusiveC4                     | 
 | Controlling                   | jaredlll08                        | 
 | Cooking for Blockheads        | BlayTheNinth and Zero9010         | 
-| Cosmetic Armor Reworked       | LainMi                            | 
 | Crafting Tweaks               | BlayTheNinth                      | 
 | CraftTweaker-2                | jaredlll08                        | 
 | Custom Backgrounds            | lumien231                         | 
@@ -67,7 +66,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Default Options               | BlayTheNinth                      | 
 | Dense Metals                  | knoxhack                          | 
 | DimensionalDoors              | DimensionalDevelopment            | 
-| DiscordSuite                  | HRZNStudio                        | 
 | Draconic Evolution            | brandon3055                       | 
 | Dynamic Surroundings          | OreCruncher                       | 
 | Ender IO                      | CrazyPants                        | 
@@ -81,6 +79,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Fast Leaf Decay               | olafskiii                         | 
 | FastWorkbench                 | Shadows_of_Fire                   | 
 | Fence Jumper                  | TheRealp455w0rd                   | 
+| Foam Fix                      |                                   | 
 | Foodinator                    | SHsuperCM                         | 
 | Forestry                      | Mezz                              | 
 | Forge Multipart               | ChickenBones                      | 
@@ -104,7 +103,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Integrated Dynamics           | kroeser                           | 
 | Integrated Terminals          | kroeser                           | 
 | Integrated Tunnels            | kroeser                           | 
-| Inventory Generators          | kjmaster1                         | 
 | Inventory Tweaks              | Kobata                            | 
 | Iron Backpacks                | gr8pefish                         | 
 | Iron Chests                   | progwml6                          | 
@@ -133,7 +131,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Mekanism Tools                | aidancbrady                       | 
 | MineMenu                      | Girafi                            | 
 | Mod Tweaker                   | jaredlll08                        | 
-| Modpack Configuration Checker | matt1235r                         | 
 | Modular Powersuits            | MachineMuse                       | 
 | More Avaritia                 | TheUnderTaker11_                  | 
 | More Overlays                 | FeldiM245                         | 
@@ -189,12 +186,10 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Security Craft                | Geforce132                        | 
 | Simply Jetpacks 2             | Tomson124                         | 
 | Snad                          | TheRoBrit                         | 
-| Some Like It Dry              | super_fluke                       | 
 | Sound Physics                 | djpadbit                          | 
 | Steve's Carts Reborn          | modmuss50 and Nedelosk            | 
 | Storage Drawers               | jaquadro                          | 
 | Storage Drawers Extras        | Texelsaur                         | 
-| Streams                       | delvr                             | 
 | Swing Through Grass           | exidex                            | 
 | Thaumcraft 6                  | Azanor                            | 
 | Thaumcraft Inventory Scanning | BlayTheNinth                      | 
