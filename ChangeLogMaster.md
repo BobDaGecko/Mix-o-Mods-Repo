@@ -54,3 +54,4 @@ Development Version - Added Initial Mods (See Modlist)
 + Configured pack keys
 + Cpnfigured pack options
 + Made BoP the default world type
++ Removed certain Exchanger modules
