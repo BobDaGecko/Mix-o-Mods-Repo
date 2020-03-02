@@ -10,4 +10,4 @@ Full Modlist
 
 Need Help?
 ======
-Go to the issues section and make sure to enter version number. Also enter all mods that you may of added to the pack and make the issue clear. Don't just say, "My game is broken."
+Go to the issues section and make sure to enter version number. Also enter all mods that you may of added to the pack and make the issue clear. Don't just say, "My game is broken." Note: You must follow the template unless you are giving a suggestion.
