@@ -1,3 +1,18 @@
+# Mix o' Mods v1.0
+Initial Release  
+ALWAYS BACKUP BEFORE YOU UPDATE   
+  
+  
+### Mods Changed
+Initial Release - Added Initial Mods (See Modlist) 
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+  
+  
+### Config/Misc:  
+See development version for initial misc. edits.
+
+
 # Mix o' Mods v0.9 Beta (Development Version)
 Development Version  
 ALWAYS BACKUP BEFORE YOU UPDATE   
