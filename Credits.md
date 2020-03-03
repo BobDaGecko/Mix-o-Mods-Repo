@@ -5,7 +5,7 @@ Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and
 
 #### General -
 Modpack Author: BobDaGecko  
-Inspiration: [FTB Infinity Evolved]()https://www.curseforge.com/minecraft/modpacks/ftb-infinity-evolved), [All the Mods 3](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3), and [FTB Revelations](https://www.curseforge.com/minecraft/modpacks/ftb-revelation)  
+Inspiration: [FTB Infinity Evolved](https://www.curseforge.com/minecraft/modpacks/ftb-infinity-evolved), [All the Mods 3](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3), and [FTB Revelations](https://www.curseforge.com/minecraft/modpacks/ftb-revelation)  
 Logo Author: ProSymbols US, Noun Project, [Adventure](https://thenounproject.com/icon/2254137/)  
 [Tinker's Tables Rescource Pack](https://www.curseforge.com/minecraft/texture-packs/tinkers-tables): Anbaric  
 [CraftTweaker scripts](https://github.com/AllTheMods/ATM-3/tree/master/overrides/scripts) based off All the Mods 3  
