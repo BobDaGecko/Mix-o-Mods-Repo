@@ -1,14 +1,15 @@
 # Mix o’ Mods - Minecraft 1.12.2
-## Version 0.9 Beta
+## Version 1.0
 
 Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and All the Mods 3. It focuses on exploration, magic, and tech. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
 #### General -
 Modpack Author: BobDaGecko  
-Inspiration: FTB Infinity Evolved, All the Mods 3, and FTB Revelations  
+Inspiration: [FTB Infinity Evolved]()https://www.curseforge.com/minecraft/modpacks/ftb-infinity-evolved), [All the Mods 3](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3), and [FTB Revelations](https://www.curseforge.com/minecraft/modpacks/ftb-revelation)  
 Logo Author: ProSymbols US, Noun Project, [Adventure](https://thenounproject.com/icon/2254137/)  
-Tinker's Tables Rescource Pack: Anbaric  
-Craft Tweaker Scripts Based off All the Mods 3  
+[Tinker's Tables Rescource Pack](https://www.curseforge.com/minecraft/texture-packs/tinkers-tables): Anbaric  
+[CraftTweaker scripts](https://github.com/AllTheMods/ATM-3/tree/master/overrides/scripts) based off All the Mods 3  
+[Server scripts](https://github.com/AllTheMods/Server-Scripts) by All the Mods Team  
 
 #### Author's Note -
 Thanks to all the amazing modders out there who have created the many amazing mods that make up this modpack. All these mods are amazing works of art and skill. I hope to become one of you one day as I learn the world of code myself. I also want to thank the Technic and FTB communities for the pioneering of minecraft modpacks. Also of course I must acknowledge Notch (Markus Persson) and Mojang for creating this historical game that has created so many personal memories. Finally, I thank you the modpack player for your usage of this project and I hope you enjoy my first modpack, Mix o' Mods.
@@ -25,7 +26,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Agricraft                     | InfinityRaider                    | 
 | Akashic Tome                  | Vazkii                            | 
 | Ancient Warfare 2             | P3pp3rF1y                         | 
-| Apple Skin                    | squeek502                         | 
+| AppleSkin                     | squeek502                         | 
 | Applied Energistics 2         | AlgorithmX2                       | 
 | Armory Expansion              | AshuraNoYami                      | 
 | Aroma1997's Dimensional World | Aroma1997                         | 
@@ -79,7 +80,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Fast Leaf Decay               | olafskiii                         | 
 | FastWorkbench                 | Shadows_of_Fire                   | 
 | Fence Jumper                  | TheRealp455w0rd                   | 
-| Foam Fix                      |                                   | 
+| Foam Fix                      | asiekierka                        | 
 | Foodinator                    | SHsuperCM                         | 
 | Forestry                      | Mezz                              | 
 | Forge Multipart               | ChickenBones                      | 
