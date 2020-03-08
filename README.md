@@ -9,9 +9,11 @@ Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and
 ## Need Help?
 Go to the issues section and make sure to enter version number. Also enter all mods that you may of added to the pack and make the issue clear. Don't just say, "My game is broken." Note: You must follow the template unless you are giving a suggestion.
 
+## System Requirements
+This is a large modpack and is rescource demanding. As long you have relatively modern hardware all you will need is a minimum of 16 GB of ram. You will not allocate all 16 gigabytes but it is recommended that you allocate 8 gigabytes and a minimum of six (note: this will cause a notification to pop up warning of performance issues).
 
 ## Extras
-Copy the following line into your JVM Arguments box for better performance: `-XX:+UseG1GC -Xmx6G -Xms6G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
+Copy the following line into your JVM Arguments box for better performance: `-XX:+UseG1GC -Xmx8G -Xms8G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
 
 The following mods are intended for the pack and are compatible but could not be included due to licensing.  
 [Optifine](https://www.optifine.net) by sp614x  
