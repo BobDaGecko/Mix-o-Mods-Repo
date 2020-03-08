@@ -12,6 +12,9 @@ Go to the issues section and make sure to enter version number. Also enter all m
 ## System Requirements
 This is a large modpack and is rescource demanding. As long you have relatively modern hardware all you will need is a minimum of 16 GB of ram. You will not allocate all 16 gigabytes but it is recommended that you allocate 8 gigabytes and a minimum of six (note: this will cause a notification to pop up warning of performance issues).
 
+## Server Info
+Please go [here](https://github.com/BobDaGecko/MoM-Repo/blob/master/ServerInfo.md).
+
 ## Extras
 
 The following mods are intended for the pack and are compatible but could not be included due to licensing.  
