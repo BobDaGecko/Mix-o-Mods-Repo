@@ -1,4 +1,6 @@
 ## How to start a Mix o' Mods Server
+Go to the files section on the Curse page to find the server files. Make sure the file version is the same. If there are no server files available do not download older files and create an issue on the github repository and I will get new server files up as soon as I can.  
+
 The ATM Team has made special server scripts to make running a modded server very easy and light on performance. To edit server settings go to the settings.cfg file. The ScriptsInfo.md file will tell you about the different settings.
 
 ## Note on World Generation
