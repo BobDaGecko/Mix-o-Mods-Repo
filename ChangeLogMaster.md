@@ -11,7 +11,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
   
   
 ### Config/Misc:  
-+ Updated Akashic Tome to start with Deep Mob Learning guide book
++ Fixed Akashic Tome from showing empty book slot
 
 
 # Mix o' Mods v1.0
