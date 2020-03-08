@@ -1,5 +1,5 @@
 # Mix o’ Mods - Minecraft 1.12.2
-## Version 1.0
+## Version 1.1
 
 Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and All the Mods 3. It focuses on exploration, magic, and tech. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
@@ -64,6 +64,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Custom Main Menu              | Lumien231                         | 
 | Dark Utilities                | Darkhax                           | 
 | Decocraft                     | RazzleberryFox and ProfMobius     | 
+| Deep Mob Learning             | Firstnecron                       | 
 | Default Options               | BlayTheNinth                      | 
 | Dense Metals                  | knoxhack                          | 
 | DimensionalDoors              | DimensionalDevelopment            | 
@@ -80,6 +81,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Fast Leaf Decay               | olafskiii                         | 
 | FastWorkbench                 | Shadows_of_Fire                   | 
 | Fence Jumper                  | TheRealp455w0rd                   | 
+| Flux Networks                 | sonar_sonic                       | 
 | Foam Fix                      | asiekierka                        | 
 | Foodinator                    | SHsuperCM                         | 
 | Forestry                      | Mezz                              | 
@@ -191,6 +193,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Steve's Carts Reborn          | modmuss50 and Nedelosk            | 
 | Storage Drawers               | jaquadro                          | 
 | Storage Drawers Extras        | Texelsaur                         | 
+| Super Sound Muffler: Revived  | IterationFunk                     | 
 | Swing Through Grass           | exidex                            | 
 | Thaumcraft 6                  | Azanor                            | 
 | Thaumcraft Inventory Scanning | BlayTheNinth                      | 
@@ -226,4 +229,4 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | World Control                 | Xbony2, dmf444, and mincrmatt12   | 
 | xNicex                        | McJty                             | 
 | Xtones                        | TehNut                            | 
-| YABBA                         | LatvianModder                     | 
+| YABBA                         | LatvianModder                     |
