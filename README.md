@@ -9,6 +9,10 @@ Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and
 ## Need Help?
 Go to the issues section and make sure to enter version number. Also enter all mods that you may of added to the pack and make the issue clear. Don't just say, "My game is broken." Note: You must follow the template unless you are giving a suggestion.
 
+## Known Issues
+#### ie: Game crashes on first start up
+There are certain issues with pack that I have found. If I have been unable to find a premanant fix they will be listed [here](https://github.com/BobDaGecko/MoM-Repo/issues/2). Any help to fixing these issues will be greatly appreciated.
+
 ## System Requirements
 This is a large modpack and is rescource demanding. As long you have relatively modern hardware all you will need is a minimum of 16 GB of ram. You will not allocate all 16 gigabytes but it is recommended that you allocate 8 gigabytes and a minimum of six (note: this will cause a notification to pop up warning of performance issues).
 
