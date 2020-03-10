@@ -1,5 +1,5 @@
 # Mix o’ Mods - Minecraft 1.12.2
-## Version 1.1
+## Version 1.2
 
 Mix o’ Mods is a large kitchen soup pack based off of FTB Infinity Evolved and All the Mods 3. It focuses on exploration, magic, and tech. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
@@ -133,6 +133,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Mekanism Generators           | aidancbrady                       | 
 | Mekanism Tools                | aidancbrady                       | 
 | MineMenu                      | Girafi                            | 
+| Mod Name Tooltip              | mezz                              | 
 | Mod Tweaker                   | jaredlll08                        | 
 | Modular Powersuits            | MachineMuse                       | 
 | More Avaritia                 | TheUnderTaker11_                  | 
