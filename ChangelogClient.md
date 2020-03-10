@@ -1,3 +1,17 @@
+# Mix o' Mods v1.2
+ALWAYS BACKUP BEFORE YOU UPDATE   
+  
+  
+### Mods Changed
++ Added Mod Name Tooltip
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+  
+  
+### Config/Misc:  
++ Removed Pam's Harvestcraft vanilla food leveling which added a food nerf
+
+
 # Mix o' Mods v1.1
 ALWAYS BACKUP BEFORE YOU UPDATE   
   
