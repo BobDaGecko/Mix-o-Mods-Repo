@@ -1,4 +1,4 @@
-# Mix o' Mods v1.2
+# Mix o' Mods v1.3
 ALWAYS BACKUP BEFORE YOU UPDATE   
   
   
