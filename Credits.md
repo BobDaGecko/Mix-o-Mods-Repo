@@ -133,6 +133,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Mekanism Generators           | aidancbrady                       | 
 | Mekanism Tools                | aidancbrady                       | 
 | MineMenu                      | Girafi                            | 
+| Mob Grinding Utils            | vadis365                          | 
 | Mod Name Tooltip              | mezz                              | 
 | Mod Tweaker                   | jaredlll08                        | 
 | Modular Powersuits            | MachineMuse                       | 
