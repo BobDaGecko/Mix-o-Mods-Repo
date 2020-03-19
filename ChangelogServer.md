@@ -1,3 +1,18 @@
+# Mix o' Mods SERVER v1.3
+ALWAYS BACKUP BEFORE YOU UPDATE  
+Any mods/config edits done to the client install are made in the server unless otherwise noted.  
+  
+  
+### Mods Changed
++ See Client Changelog
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+  
+  
+### Config/Misc:  
++ See Client Changelog
+
+
 # Mix o' Mods SERVER v1.2
 ALWAYS BACKUP BEFORE YOU UPDATE  
 Any mods/config edits done to the client install are made in the server unless otherwise noted.  
