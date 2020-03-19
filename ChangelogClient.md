@@ -3,6 +3,22 @@ ALWAYS BACKUP BEFORE YOU UPDATE
   
   
 ### Mods Changed
++ Added Mob Grinding Utils
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+  
+  
+### Config/Misc:  
++ Fixed ore gen
++ Added Thermal Innovation's drill to veinminer pickaxe library
++ Veinminer now by default is activated by sneaking
+
+
+# Mix o' Mods v1.2
+ALWAYS BACKUP BEFORE YOU UPDATE   
+  
+  
+### Mods Changed
 + Added Mod Name Tooltip
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
