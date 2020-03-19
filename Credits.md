@@ -54,6 +54,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Chunk Pregenerator            | Speiger                           | 
 | Clumps                        | jaredlll08                        | 
 | COFH World                    | TeamCoFH                          | 
+| Compact Machines              | davenonymous                      | 
 | ConnectedTexturesMod          | The Chisel Team                   | 
 | Construct's Armory            | TheIllusiveC4                     | 
 | Controlling                   | jaredlll08                        | 
@@ -231,4 +232,4 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | World Control                 | Xbony2, dmf444, and mincrmatt12   | 
 | xNicex                        | McJty                             | 
 | Xtones                        | TehNut                            | 
-| YABBA                         | LatvianModder                     |
+| YABBA                         | LatvianModder                     | 
