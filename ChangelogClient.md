@@ -13,7 +13,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 + Fixed ore gen
 + Added Thermal Innovation's drill to veinminer pickaxe library
 + Veinminer now by default is activated by sneaking
-+ Tinker's Tables rescource pack updated to change Construct Armory's armor station and armor forge (Credit: Jarx246)
++ Tinker's Tables resource pack updated to change Construct Armory's armor station and armor forge (Credit: Jarx246)
 
 
 # Mix o' Mods v1.2
