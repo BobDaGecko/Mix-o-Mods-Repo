@@ -4,6 +4,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
   
 ### Mods Changed
 + Added Mob Grinding Utils
++ Added Compact Machines
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
   
