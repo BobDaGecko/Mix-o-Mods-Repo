@@ -11,7 +11,7 @@ Go to the issues section and make sure to enter version number. Also enter all m
 
 ## Known Issues
 #### ie: Game crashes on first start up
-There are certain issues with pack that I have found. If I have been unable to find a premanant fix they will be listed [here](https://github.com/BobDaGecko/MoM-Repo/issues/2). Any help to fixing these issues will be greatly appreciated.
+There are certain issues with pack that I have found. If I have been unable to find a permanent fix they will be listed [here](https://github.com/BobDaGecko/MoM-Repo/issues/2). Any help to fixing these issues will be greatly appreciated.
 
 ## System Requirements
 This is a massive modpack and is rescource demanding. As long you have relatively modern hardware all you will need is a minimum of 16 GB of ram. You will not allocate all 16 gigabytes but it is recommended that you allocate 8 gigabytes and a minimum of six (note: this will cause a notification to pop up warning of performance issues).
