@@ -1,3 +1,16 @@
+# Mix o' Mods v1.4
+The Beneath Update (Oh Jeez... Good Luck)
+ALWAYS BACKUP BEFORE YOU UPDATE   
+  
+  
+### Mods Changed
++ Added The Beneath
++ Added Grue
++ Added DarknessLib
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+
+
 # Mix o' Mods v1.3
 ALWAYS BACKUP BEFORE YOU UPDATE   
   
@@ -7,8 +20,8 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 + Added Compact Machines
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
-  
-  
+
+
 ### Config/Misc:  
 + Fixed ore gen
 + Added Thermal Innovation's drill to veinminer pickaxe library
