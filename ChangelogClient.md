@@ -10,6 +10,12 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
 
+### Config/Misc:  
++ Configured oregen in the Beneath
++ Changed crafting recipe for the Beneath Teleporter
++ The Grue only spawns in the Beneath
++ Added crafting recipe for apples based on Deep Mob Learning
++ Added Practical Logistics 2 guide book to the Akashic Tome
 
 # Mix o' Mods v1.3
 ALWAYS BACKUP BEFORE YOU UPDATE   
