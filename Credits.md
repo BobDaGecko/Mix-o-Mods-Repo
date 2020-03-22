@@ -93,6 +93,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Gendustry                     | bdew                              | 
 | GraveStone Mod                | henkelmax                         | 
 | Gravity Gun                   | iChun                             | 
+| Grue                          | Shinoow                           | 
 | Hat Stand                     | iChun                             | 
 | Hats                          | iChun                             | 
 | Headcrumbs                    | ganymedes01                       | 
@@ -204,6 +205,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Thaumic Energistics           | Nividica                          | 
 | Thaumic JEI                   | Buuz135                           | 
 | Thaumic Tinkerer              | nekosune                          | 
+| The Beneath                   | Shinoow                           | 
 | The One Probe                 | McJty                             | 
 | The Twilight Forest           | Benimatic                         | 
 | Thermal Cultivation           | TeamCoFH                          | 
@@ -232,4 +234,4 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | World Control                 | Xbony2, dmf444, and mincrmatt12   | 
 | xNicex                        | McJty                             | 
 | Xtones                        | TehNut                            | 
-| YABBA                         | LatvianModder                     | 
+| YABBA                         | LatvianModder                     |
