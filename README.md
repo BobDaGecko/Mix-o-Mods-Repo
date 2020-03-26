@@ -20,5 +20,5 @@ This is a massive modpack and is rescource demanding. As long you have relativel
 Please go [here](https://github.com/BobDaGecko/MoM-Repo/blob/master/ServerInfo.md).
 
 ## Optifine
-Optifine is an intended mod and greatly improves performance but is not able to be added by default due to licensing. You can get it below. The recommended version is OptiFine 1.12.2 HD U F5.
+Optifine is an intended mod and greatly improves performance but is not able to be added by default due to licensing. You can get it below. The recommended version is OptiFine 1.12.2 HD U F5.  
 [Optifine](https://www.optifine.net) by sp614x  
