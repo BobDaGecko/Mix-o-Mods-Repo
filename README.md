@@ -1,5 +1,5 @@
-## Mix o' Mods 2.0 1.12.2
-This is the official repository and issue-tracker for Mix o' Mods 2.0 1.12.2
+## Mix o' Mods 2.0 for 1.12.2
+This is the official repository and issue-tracker for Mix o' Mods 2.0 for 1.12.2
 
 Mix o’ Mods 2.0 is a large general purpose, tech based pack off of FTB Infinity Evolved and All the Mods 3. Primarily focused on tech, it still offers aspects of exploration and magic. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
