@@ -1,7 +1,7 @@
-## Mix o' Mods 1.12.2
-This is the official repository and issue-tracker for Mix o' Mods 1.12.2
+## Mix o' Mods 2.0 1.12.2
+This is the official repository and issue-tracker for Mix o' Mods 2.0 1.12.2
 
-Mix o’ Mods is a massive kitchen soup pack based off of FTB Infinity Evolved and All the Mods 3. It focuses on exploration, magic, and tech. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
+Mix o’ Mods 2.0 is a large general purpose, tech based pack off of FTB Infinity Evolved and All the Mods 3. Primarily focused on tech, it still offers aspects of exploration and magic. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
 ## Full Modlist
 [Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)
@@ -19,9 +19,6 @@ This is a massive modpack and is rescource demanding. As long you have relativel
 ## Server Info
 Please go [here](https://github.com/BobDaGecko/MoM-Repo/blob/master/ServerInfo.md).
 
-## Extras
-
-The following mods are intended for the pack and are compatible but could not be included due to licensing.  
+## Optifine
+Optifine is an intended mod and greatly improves performance but is not able to be added by default due to licensing. You can get it below. The recommended version is OptiFine 1.12.2 HD U F5.
 [Optifine](https://www.optifine.net) by sp614x  
-[ICBM-Classic](https://www.curseforge.com/minecraft/mc-mods/icbm-classic) by DarkGuardsman  
-[Lucky Blocks](http://www.minecraftascending.com/projects/lucky_block/lucky_block.html) by PlayerInDistress  
