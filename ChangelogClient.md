@@ -12,9 +12,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 + Removed Additional Enchanted Miner
 + Removed Agricraft
 + Removed Ancient Warfare 2
-+ Removed Armory Expansion
 + Removed BetterFPS
-+ Removed Construct's Armory
 + Removed Grue
 + Removed ICBM Classic Suggestion
 + Removed Initial Inventory
