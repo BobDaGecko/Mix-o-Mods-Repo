@@ -6,6 +6,7 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 ### Changes from Mix o' Mods v1.x
 + Added BadWitherNoCookie
 + Added CC:Tweaked
++ Added Fullscreen Windowed for Minecraft
 + Added Integration Foregoing
 + Added JEI Block Drops
 + Removed Additional Enchanted Miner
