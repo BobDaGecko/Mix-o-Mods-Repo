@@ -4,7 +4,44 @@ ALWAYS BACKUP BEFORE YOU UPDATE
   
   
 ### Changes from Mix o' Mods v1.x
-Initial Release - Added Initial Mods (See Modlist) 
++ Added BadWitherNoCookie
++ Added CC:Tweaked
++ Added Integration Foregoing
++ Added JEI Block Drops
++ Removed Additional Enchanted Miner
++ Removed Agricraft
++ Removed Ancient Warfare 2
++ Removed Armory Expansion
++ Removed BetterFPS
++ Removed Construct's Armory
++ Removed Grue
++ Removed ICBM Classic Suggestion
++ Removed Initial Inventory
++ Removed JAOPCA Singularities
++ Removed Just Enough Calculation
++ Removed Just Enough Pattern Banners
++ Removed KleeSlabs
++ Removed Luck Blocks Suggestion
++ Removed MineMenu
++ Removed Modular Powersuits
++ Removed Morph
++ Removed MrCrayfish's Device Mod
++ Removed MrCrayfish's Furniture Mod
++ Removed MrCrayfish's Vehicle Mod
++ Removed Mystical Agradditions
++ Removed Mystical Agriculture
++ Removed No Recipe Book
++ Removed OpenComputers
++ Removed Pam's Get All the Seeds!
++ Removed Power Adapters
++ Removed Practical Logistics 2
++ Removed RFTools OC Integration
++ Removed Rope Bridge
++ Removed Ruins (Structure Spawning)
++ Removed Thaumic Computers
++ Removed Tinker's Mechworks Fork
++ Removed ViesCraft Airships
++ Removed World Control
 
 *[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
   
@@ -61,3 +98,7 @@ Initial Release - Added Initial Mods (See Modlist)
 + Added Thermal Innovation's drill to veinminer pickaxe library
 + Veinminer now by default is activated by sneaking
 + Tinker's Tables resource pack updated to change Construct Armory's armor station and armor forge (Credit: Jarx246)
++ Configured oregen in Aroma1997's Dimensional World
++ Crafting Tweaks hides recipe book
++ Portalgun added to Lootbags loot table
++ Minor QOL misc. edits across configs
