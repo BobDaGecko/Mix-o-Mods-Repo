@@ -27,8 +27,6 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 + Removed MrCrayfish's Device Mod
 + Removed MrCrayfish's Furniture Mod
 + Removed MrCrayfish's Vehicle Mod
-+ Removed Mystical Agradditions
-+ Removed Mystical Agriculture
 + Removed No Recipe Book
 + Removed OpenComputers
 + Removed Pam's Get All the Seeds!
