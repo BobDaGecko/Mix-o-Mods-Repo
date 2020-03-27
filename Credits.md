@@ -22,6 +22,10 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Actually Additions                | Ellepeck                          | 
 | Advanced Rocketry                 | zmaster587                        | 
 | AE2 Stuff                         | bdew                              | 
+| AE2 Wireless Crafting Terminal    | TheRealp455w0rd                   | 
+| AE2 Wireless Fluid Terminal       | TheRealp455w0rd                   | 
+| AE2 Wireless Interface Terminal   | TheRealp455w0rd                   | 
+| AE2 Wireless Pattern Terminal     | TheRealp455w0rd                   | 
 | Akashic Tome                      | Vazkii                            | 
 | AppleSkin                         | squeek502                         | 
 | Applied Energistics 2             | AlgorithmX2                       | 
@@ -201,10 +205,6 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | UniDict                           | WanionCane                        | 
 | VeinMiner                         | Portablejim                       | 
 | Waystones                         | BlayTheNinth                      | 
-| Wireless Crafting Terminal        | TheRealp455w0rd                   | 
-| Wireless Fluid Terminal           | TheRealp455w0rd                   | 
-| Wireless Interface Terminal       | TheRealp455w0rd                   | 
-| Wireless Pattern Terminal         | TheRealp455w0rd                   | 
 | Wireless Redstone-CBE             | ChickenBones                      | 
 | xNicex                            | McJty                             | 
 | Xtones                            | TehNut                            | 
