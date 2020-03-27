@@ -1,7 +1,7 @@
 # Mix o’ Mods 2.0 - Minecraft 1.12.2
 ## Version 2.0
 
-Mix o’ Mods 2.0 is a large general purpose, tech based pack based off of FTB Infinity Evolved, FTB Revelations, and All the Mods 3. Primarily focused on tech, it still offers aspects of exploration and magic. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
+Mix o’ Mods 2.0 is a large general purpose, tech based pack based off of FTB Infinity Evolved, FTB Revelations, and All the Mods 3. While primarily focused on tech, it still offers aspects of exploration and magic. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
 #### General -
 Modpack Author: BobDaGecko  
