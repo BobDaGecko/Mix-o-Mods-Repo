@@ -1,4 +1,4 @@
-# Mix o' Mods 2.0 SERVER v2.0
+# Mix o' Mods SERVER v2.0
 Initial Release  
 ALWAYS BACKUP BEFORE YOU UPDATE  
 Any mods/config edits done to the client install are made in the server unless otherwise noted.  
