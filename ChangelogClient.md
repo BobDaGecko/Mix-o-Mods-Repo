@@ -15,7 +15,6 @@ ALWAYS BACKUP BEFORE YOU UPDATE
 + Removed BetterFPS
 + Removed Grue
 + Removed ICBM Classic Suggestion
-+ Removed Initial Inventory
 + Removed JAOPCA Singularities
 + Removed Just Enough Calculation
 + Removed Just Enough Pattern Banners
