@@ -104,6 +104,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Immersive Petroleum               | Flaxbeard                         | 
 | Immersive Tech                    | FerroO2000                        | 
 | Industrial Foregoing              | Buuz135 and CyanideX              | 
+| Initial Inventory                 | Jaredlll08                        | 
 | Integrated Crafting               | kroeser                           | 
 | Integrated Dynamics               | kroeser                           | 
 | Integrated Terminals              | kroeser                           | 
