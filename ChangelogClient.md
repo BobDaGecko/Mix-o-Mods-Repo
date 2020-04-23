@@ -1,3 +1,20 @@
+# Mix o' Mods v2.0.1
+Initial Release  
+ALWAYS BACKUP BEFORE YOU UPDATE   
+  
+  
+### Mods Changed:
++ Updated Mods
++ Added Blood Arsenal
++ Added Building Gadgets
++ Added Deep Mob Learning - Blood Magic Addon
+
+*[Full Modlist](https://docs.google.com/spreadsheets/d/1tRUqneTiYJFufnSGGCGypk6drw9T70atX_EO47BeuM0/edit?usp=sharing)*  
+  
+  
+### Config/Misc:  
++ General config tweaks
+
 # Mix o' Mods v2.0
 Initial Release  
 ALWAYS BACKUP BEFORE YOU UPDATE   
