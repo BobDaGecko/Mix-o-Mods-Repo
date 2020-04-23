@@ -1,5 +1,5 @@
 # Mix o’ Mods 2.0 - Minecraft 1.12.2
-## Version 2.0
+## Version 2.0.1
 
 Mix o’ Mods 2.0 is a large general purpose, tech based pack based off of FTB Infinity Evolved, FTB Revelations, and All the Mods 3. While primarily focused on tech, it still offers aspects of exploration and magic. It also has a plethora of cosmetic mods to enhance creative builds. It has no quest structure and is pretty free handed in what the player can do. It is not a relatively hard pack as most configs and recipes have not been tweaked but that also can represent many challenges. It was created by and is maintained by BobDaGecko.
 
@@ -44,10 +44,12 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Binnie's Mods                     | Binnie                            | 
 | Biomes O' Plenty                  | Forstride                         | 
 | Blockcraftery                     | EpicSquid319                      | 
+| Blood Arsenal                     | Arcaratus                         | 
 | Blood Magic                       | WayofTime                         | 
 | Botania                           | Vazkii                            | 
 | Buildcraft                        | asie                              | 
 | Buildcraft Compact                | buildcraftchildsplay              | 
+| Building Gadgets                  | Direwolf20                        | 
 | CC:Tweaked                        | SquidDev                          | 
 | Chest Transporter                 | CubeX2                            | 
 | Chicken Chunks                    | ChickenBones                      | 
@@ -68,6 +70,7 @@ Thanks to all the amazing modders out there who have created the many amazing mo
 | Dark Utilities                    | Darkhax                           | 
 | Decocraft                         | RazzleberryFox and ProfMobius     | 
 | Deep Mob Learning                 | Firstnecron                       | 
+| Deep Mob Learning - Blood Magic   | IterationFunk                     | 
 | Default Options                   | BlayTheNinth                      | 
 | Dense Metals                      | knoxhack                          | 
 | DimensionalDoors                  | DimensionalDevelopment            | 
